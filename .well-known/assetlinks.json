@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.resnn.demo",
+    "sha256_cert_fingerprints":
+    ["01:7E:92:C0:95:A3:7B:A9:15:35:33:D1:D0:BA:43:0B:E9:EA:01:56:AF:BA:11:C5:FD:A2:D5:81:15:D6:95:85"]
+  }
+}]
